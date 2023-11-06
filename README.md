@@ -11,6 +11,8 @@ Laravel 8 pepustakaan dibuat oleh :
 -Beni Andriansyah
 -Mohamad Iqbal Ramadhan
 
+contact email darurat : davidseptian0409@gmail.com or rofinb123@gmail.com
+
 ## Fitur 
 
 - Autentikasi Admin, Petugas dan Peminjam
@@ -104,7 +106,7 @@ php artisan key:generate
 ```bash
 php artisan migrate --seed
 ```
-Note : jika tidak ingin menggunakan migrate bisa menggunakan import database yang sudah ada, keuntungannya adalah data buku" sudah banyak. Bisa hubungi email ke davidseptian0409@gmail.com
+Note : jika tidak ingin menggunakan migrate bisa menggunakan import database yang sudah ada, keuntungannya adalah data buku" sudah banyak. Bisa hubungi email ke davidseptian0409@gmail.com or rofinb123@gmail.com
 
 ## Buat Storage Link
 
