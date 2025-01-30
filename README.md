@@ -1,4 +1,4 @@
-# New Update E-Perpus 
+# Aplikasi Membaca Online / E-Library
 
 <h1 align="center">Laravel 8 Perpustakaan</h1>
 
